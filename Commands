@@ -1,0 +1,20 @@
+They python backdoor
+commands 
+
+_________________ATTACKER TYPES______________________--
+nc -lvp [port probably 443]
++++++++++++++++++++++++++++++++++++++++++++++++++++++
+_________________VICTIM TODO_______________________
+python Login.py
+Or we need to run the exe. We should have to have it
+run on startup. And run for any user. We need the port 
+for the os and might need to tweak Login.py or Login.exe
+We also need to have the file hidden & have the file just
+spawn in. To hide it we need to put it somewhere
+But the problem is I cant cd out of it. So we need
+to ftp it or make it work someother way.
+What I would also like if for it to have me be the keyboard
+or have me see the screen like a full on reverce tcp.
+I could take screen shots but would need to be the keyboard
+then I would have to share it. To the FPT server.
+
